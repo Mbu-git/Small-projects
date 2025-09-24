@@ -6,7 +6,7 @@ from twilio.rest import Client
 account_sid = "Your account sid from Twilio goes here"
 auth_token = "authentication token from Twilio goes here"
 ow_url = "https://api.openweathermap.org/data/2.5/forecast"
-api_key = "30a9426065268df1e78777fbd86f4263"
+api_key = "Insert-API-key"
 
 weather_params ={
     "appid" : api_key,
